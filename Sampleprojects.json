@@ -1,0 +1,10 @@
+{
+  "projects": [
+    { "name": ".LOCAL" },
+    { "name": "AI Datastore" },
+    { "name": "Temenos Webinar" },
+    { "name": "AI Data store Deck" },
+    { "name": "Alibaba Cloud Summit" },
+    { "name": "AWS Reinvent" }
+  ]
+}
